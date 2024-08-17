@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL 8.0.32-1.2.11-server",
+            "database": "tenex",
+            "username": "administrator",
+            "askForPassword": true
+        }
+    ]
+}
